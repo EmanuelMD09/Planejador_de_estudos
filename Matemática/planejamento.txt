@@ -1,0 +1,24 @@
+Planejamento Semanal:
+Segunda-feira:
+Revisão de equações lineares e resolução de exercícios.
+Terça-feira:
+Estudo de geometria plana: triângulos e quadriláteros.
+Quarta-feira:
+Prática de inequações e sistemas de equações.
+Quinta-feira:
+Revisão de geometria espacial: prismas e pirâmides.
+Sexta-feira:
+Introdução à trigonometria: razões trigonométricas.
+Sábado:
+Estudo de geometria analítica: coordenadas cartesianas.
+Domingo:
+Revisão geral dos tópicos estudados durante a semana e resolução de exercícios abrangentes.
+Planejamento Mensal:
+Semana 1-2:
+Álgebra: equações lineares, inequações e sistemas de equações.
+Semana 3-4:
+Geometria: plana e espacial.
+Semana 5-6:
+Trigonometria: razões trigonométricas, identidades e funções trigonométricas.
+Semana 7-8:
+Cálculo: limites, derivadas e integrais.
